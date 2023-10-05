@@ -3,7 +3,7 @@
 *Projeto desenvolvido para a disciplina de Aprendizagem de Máquina* 
 
 
-  * O trabalho tem como objetivo avaliar o conhecimento adquirido pelo o aluno com base nas aulas ministradas pelo professor.
+  * O trabalho tem como objetivo avaliar o conhecimento adquirido pelo o aluno com base nas aulas ministradas pelo professor em sala de aula.
 
 ## Tarefas:
 
