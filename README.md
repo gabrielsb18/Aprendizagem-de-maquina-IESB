@@ -2,7 +2,9 @@
 
 *Projeto desenvolvido para a disciplina de Aprendizagem de Máquina* 
 
-<p>O trabalho tem como objetivo avaliar o conhecimento adquirido pelo o aluno durante as aulas</p>
+<div>
+  <p>O trabalho tem como objetivo avaliar o conhecimento adquirido pelo o aluno durante as aulas</p>
+</div>
 
 
 ## Tarefas:
