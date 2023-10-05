@@ -5,6 +5,8 @@
 
 ## O objetivo é resolver as seguintes questoes propostas pelo professor:
 
+
+
  1) Ajuste as idades que não são válidas ou estão vazias para a moda da amostra. Grave a saída no arquivo Resposta01.txt:
     Realizar a limpeza da phanilha fornecida(dados4.csv) e extrair a moda das idades, finalizando com a exportação da saída em um arquivo txt (Respostas01.txt);
    
