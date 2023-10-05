@@ -4,6 +4,8 @@
 
 
   * O trabalho tem como objetivo avaliar o conhecimento adquirido pelo o aluno com base nas aulas ministradas pelo professor em sala de aula.
+  * Utilizou-se um arquivo .csv para análise, que contém a maior parte das informações sobre os tripulantes do Titanic.
+  * O trabalho foi desenvolvido e discutido em dupla. Minha tarefa principal foi a tarefa 1, fornecida pelo professor.
 
 ## Tarefas:
 
