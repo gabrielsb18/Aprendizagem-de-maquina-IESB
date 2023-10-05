@@ -1,6 +1,8 @@
 # APRENDIZAGEM DE MAQUINA
 
-*Projeto desenvolvido para a disciplina de Aprendizagem de Máquina*
+*Projeto desenvolvido para a disciplina de Aprendizagem de Máquina* 
+
+<p>O trabalho tem como objetivo avaliar o conhecimento adquirido pelo o aluno durante as aulas</p>
 
 
 ## Tarefas:
