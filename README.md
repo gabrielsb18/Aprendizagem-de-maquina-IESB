@@ -2,10 +2,8 @@
 
 *Projeto desenvolvido para a disciplina de Aprendizagem de Máquina* 
 
-<div>
-  * O trabalho tem como objetivo avaliar o conhecimento adquirido pelo o aluno com base nas aulas ministradas.
-</div>
 
+  * O trabalho tem como objetivo avaliar o conhecimento adquirido pelo o aluno com base nas aulas ministradas pelo professor.
 
 ## Tarefas:
 
@@ -28,6 +26,13 @@
 
 * Gabriel Santos Barbosa;
 * Rainier Barbosa dos Santos Viana;
+
+## Tecnologias utlizadas:
+
+<div>
+ <img src=	"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src=	"https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+</div>
 
 ## Links:
 <div>
