@@ -1,4 +1,4 @@
-# Aprendizagem de Maquina
+# APRENDIZAGEM DE MAQUINA
 
 *Projeto desenvolvido para a disciplina de Aprendizagem de Máquina*
 
