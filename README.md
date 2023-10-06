@@ -1,6 +1,6 @@
 # APRENDIZAGEM DE MAQUINA
 
-*Projeto desenvolvido para a disciplina de Aprendizagem de Máquina* 
+*Projeto desenvolvido para a disciplina de Aprendizagem de Máquina, do Instituto de Educação Superior de Brasília* 
 
 
   * O trabalho tem como objetivo avaliar o conhecimento adquirido pelo o aluno com base nas aulas ministradas pelo professor em sala de aula.
